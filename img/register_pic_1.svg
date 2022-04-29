@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="66px" viewBox="0 0 100 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled 4</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="register_pic_1">
+            <rect id="Rectangle" stroke="#090F41" stroke-width="1.16279" fill="#FFFFFF" fill-rule="nonzero" x="58.721" y="7.5584" width="40.6976" height="56.9767" rx="4.06976"></rect>
+            <rect id="Rectangle" fill="#090F41" fill-rule="nonzero" x="68.605" y="4.6514" width="20.9302" height="5.81395" rx="1.16279"></rect>
+            <circle id="Oval" stroke="#090F41" stroke-width="1.16279" cx="79.07" cy="4.6512" r="4.06976"></circle>
+            <rect id="Rectangle" fill="#CDD2FF" fill-rule="nonzero" x="68.605" y="19.7676" width="20.9302" height="3.48837"></rect>
+            <rect id="Rectangle" fill="#CDD2FF" fill-rule="nonzero" x="68.605" y="31.3955" width="20.9302" height="3.48837"></rect>
+            <rect id="Rectangle" fill="#CDD2FF" fill-rule="nonzero" x="68.605" y="51.1626" width="20.9302" height="3.48837"></rect>
+            <rect id="Rectangle" fill="#CDD2FF" fill-rule="nonzero" x="63.954" y="25.5815" width="30.2325" height="3.48837"></rect>
+            <rect id="Rectangle" fill="#CDD2FF" fill-rule="nonzero" x="63.954" y="45.3486" width="30.2325" height="3.48837"></rect>
+            <rect id="Rectangle" stroke="#090F41" stroke-width="1.16279" fill="#FFFFFF" fill-rule="nonzero" x="0.5814" y="26.1629" width="33.7209" height="33.7209" rx="4.06976"></rect>
+            <path d="M20.6513,43.2787 C21.535,42.4338 22.0931,41.2477 22.0931,39.9222 C22.0931,37.3563 20.0079,35.271 17.442,35.271 C14.8761,35.271 12.7908,37.3563 12.7908,39.9222 C12.7908,41.2477 13.3489,42.4338 14.2327,43.2787 C10.8683,43.8369 8.1396,45.302 8.1396,47.6741 C8.1396,50.7749 8.9148,50.7749 17.442,50.7749 C25.9691,50.7749 26.7443,50.7749 26.7443,47.6741 C26.7443,45.302 24.0156,43.8369 20.6513,43.2787 Z" id="Path" fill="#090F41" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#6120CE" fill-rule="nonzero" x="17.4419" y="11.6279" width="1.16279" height="11.6279"></rect>
+            <rect id="Rectangle" fill="#6120CE" fill-rule="nonzero" transform="translate(38.372000, 12.209105) rotate(-90.000000) translate(-38.372000, -12.209105) " x="37.790605" y="0.581205" width="1.16279" height="23.2558"></rect>
+        </g>
+    </g>
+</svg>
